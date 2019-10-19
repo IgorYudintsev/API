@@ -1,9 +1,6 @@
 <?php
 
 namespace app\controllers;
-
-use app\models\model;
-use app\models\rooms;
 use app\models\SelectForm;
 use yii\base\Controller;
 

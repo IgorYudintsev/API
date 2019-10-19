@@ -1,12 +1,6 @@
 <?php
-
 use miloschuman\highcharts\Highcharts;
-
-use yii\helpers\ArrayHelper;
 use yii\helpers\Url;
-use yii\helpers\Html;
-use yii\widgets\ActiveForm;
-use app\models\rooms;
 ?>
 <a class="btn btn-info"  id="one" href="<?= Url::to(['api/index']) ?>" role="button">ALL room appartments</a>
 <p></p>
